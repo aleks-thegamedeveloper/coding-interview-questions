@@ -1,1 +1,1 @@
-Every episode is posted as a separate branch. Enjoy!
+Every episode is posted in a separate folder. Enjoy!
